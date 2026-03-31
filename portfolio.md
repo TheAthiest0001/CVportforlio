@@ -21,6 +21,3 @@ Watch my mock interview video here:
 
 
 
-- **LinkedIn:** (link-to-linkedin)
-- **GitHub:** (link-to-github)
-- **Email:** (your-email)
