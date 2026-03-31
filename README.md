@@ -34,3 +34,6 @@ Passionate about learning new technologies and building a career in the IT indus
 ### Hottentots Holland High School  
 **Bachelor's Pass**  
 2017 – 2021  
+
+<video width="600" controls src="0331 (1).mp4">
+</video>
