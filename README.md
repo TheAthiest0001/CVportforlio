@@ -5,9 +5,9 @@ Assignment
 
 ## Profile
 
-Motivated and dedicated **Information Technology student** with a strong interest in **networking, software development, and modern computing technologies**.  
-Currently studying at university and developing practical skills in **programming, problem-solving, and system design**.  
-Passionate about learning new technologies and building a career in the **IT industry**, with a focus on gaining certifications and practical experience to grow as a professional in the technology field.
+Motivated and dedicated Information Technology student with a strong interest in networking, software development, and modern computing technologies.  
+Currently studying at university and developing practical skills in programming, problem-solving, and system design.  
+Passionate about learning new technologies and building a career in the IT industry, with a focus on gaining certifications and practical experience to grow as a professional in the technology field.
 
 ## Contact Me
 
