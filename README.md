@@ -22,8 +22,6 @@ Electric City, Eersterivier, Cape Town
 
 I am a motivated and dedicated final-year Information Technology student with a strong interest in networking, software development, and modern computing technologies. I am currently completing my diploma while building practical skills in programming, problem-solving, and system design. I am passionate about learning new technologies and working towards building a career in the IT industry.
 
-
-
 ### Education
 
 * Diploma in Information Technology (Final Year Student)
@@ -31,8 +29,6 @@ I am a motivated and dedicated final-year Information Technology student with a 
 
 * Matric Certificate
   Hottentots Holland High School
-
-
 
 ### Work Experience
 
@@ -56,13 +52,9 @@ Although I have limited formal work experience, I developed important skills suc
 * Communication
 * Teamwork
 
-
-
 ### Additional Information
 
 * Driver’s License: Code 8
-
-
 
 ### References
 
@@ -83,7 +75,6 @@ I researched how Markdown works and practiced using headings, lists, and formatt
 
 **Result:**
 I was able to create a well-structured portfolio using Markdown. I now understand how to format content on GitHub and can use this skill in future projects.
-
 
 ## Mock Interview Video
 
@@ -106,7 +97,6 @@ The experience helped me understand how interviews work and highlighted areas I 
 ## GitHub Pages Portfolio Link
 
 PASTE-YOUR-GITHUB-PAGES-LINK-HERE
-
 
 ## Reflection on GitHub Pages (STAR Method)
 
