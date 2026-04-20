@@ -1,14 +1,14 @@
 # Digital Portfolio
 
 ## GitHub Profile  
-https://github.com/TheAthiest0001  
+[My GitHub Profile](https://github.com/TheAthiest0001)
 
----
+
 
 ## Introduction  
 This digital portfolio showcases my work readiness training, including my CV, mock interview, and reflections on my learning experience. The purpose of this portfolio is to present my skills, experience, and personal development as an Information Technology student.  
 
----
+
 
 ## Evidence: CV (Coded in Markdown)
 
@@ -18,12 +18,12 @@ This digital portfolio showcases my work readiness training, including my CV, mo
 - [Nokenkelibo@gmail.com](mailto:Nokenkelibo@gmail.com)  
 - 074 881 4431  
 
----
+
 
 ### Summary  
 I am a motivated and dedicated final-year Information Technology student with a strong interest in networking, software development, and modern computing technologies. I am currently completing my diploma while building practical skills in programming, problem-solving, and system design. I am passionate about learning new technologies and working towards building a career in the IT industry.  
 
----
+
 
 ### Education  
 
@@ -33,7 +33,7 @@ I am a motivated and dedicated final-year Information Technology student with a 
 - **Matric Certificate**  
   Hottentots Holland High School  
 
----
+
 
 ### Work Experience  
 
@@ -42,7 +42,7 @@ I am a motivated and dedicated final-year Information Technology student with a 
 
 Although I have limited formal work experience, I developed important skills such as teamwork, communication, and customer service during this period.  
 
----
+
 
 ### Skills  
 
@@ -57,19 +57,19 @@ Although I have limited formal work experience, I developed important skills suc
 - Communication  
 - Teamwork  
 
----
+
 
 ### Additional Information  
 
 - Driver’s License: Code 8  
 
----
+
 
 ### References  
 
 Simakele Nocuze – 068 020 3872  
 
----
+
 
 ## Reflection on Coding in Markdown (STAR Method)
 
@@ -110,13 +110,13 @@ Practicing interview questions and focused on speaking clearly during the record
 **Result:**  
 The experience helped me understand interview expectations and showed areas where I can improve.  
 
----
+
 
 ## Evidence: GitHub Pages  
 
 [View my portfolio](https://theathiest0001.github.io/CVportforlio/)  
 
----
+
 
 ## Reflection on GitHub Pages 
 
