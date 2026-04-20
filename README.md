@@ -74,16 +74,16 @@ Simakele Nocuze – 068 020 3872
 ## Reflection on Coding in Markdown (STAR Method)
 
 **Situation:**  
-I was required to create a digital portfolio using Markdown on GitHub as part of this assessment.  
+Create a digital portfolio using Markdown on GitHub as part of this assessment.  
 
 **Task:**  
-My task was to learn how to structure my portfolio and present my CV in a clear and professional way.  
+Learn how to structure my portfolio and present my CV in a clear and professional way.  
 
 **Action:**  
-I researched Markdown and practiced using headings, lists, and formatting in my README file.  
+I researched Markdown and practiced using headings and text
 
 **Result:**  
-I was able to create a structured and readable portfolio and gained a better understanding of Markdown.  
+Created a structured and readable portfolio and gained a better understanding of Markdown language.  
 
 ---
 
@@ -99,13 +99,13 @@ width="600" height="400" allow="autoplay"></iframe>
 ## Reflection on Mock Interview (STAR Method)
 
 **Situation:**  
-I had to complete and record a mock interview as part of the work readiness training.  
+Complete and record a mock interview as part of the work readiness training.  
 
 **Task:**  
-My task was to answer questions clearly and present myself professionally.  
+Answer questions clearly and present myself professionally.  
 
 **Action:**  
-I prepared by practicing common interview questions and focused on speaking clearly during the recording.  
+Practicing interview questions and focused on speaking clearly during the recording.  
 
 **Result:**  
 The experience helped me understand interview expectations and showed areas where I can improve.  
@@ -118,16 +118,16 @@ The experience helped me understand interview expectations and showed areas wher
 
 ---
 
-## Reflection on GitHub Pages (STAR Method)
+## Reflection on GitHub Pages 
 
 **Situation:**  
-I needed to publish my portfolio using GitHub Pages.  
+Publish my portfolio using GitHub Pages.  
 
 **Task:**  
-My task was to make my portfolio accessible online through a working link.  
+ Make my portfolio accessible online through a link.  
 
 **Action:**  
-I enabled GitHub Pages in the repository settings and selected the correct branch.  
+I made GitHub Pages in the repository settings and selected branch.  
 
 **Result:**  
-I successfully published my portfolio and learned how to deploy content using GitHub Pages.  
+Published my portfolio and learned how to deploy content using GitHub Pages.  
