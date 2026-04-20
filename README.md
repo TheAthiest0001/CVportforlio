@@ -4,12 +4,6 @@
 [My GitHub Profile](https://github.com/TheAthiest0001)
 
 
-
-## Introduction  
-This digital portfolio showcases my work readiness training, including my CV, mock interview, and reflections on my learning experience. The purpose of this portfolio is to present my skills, experience, and personal development as an Information Technology student.  
-
-
-
 ## Evidence: CV (Coded in Markdown)
 
 ### Libolwetu Nokenke  
