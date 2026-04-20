@@ -78,9 +78,9 @@ I was able to create a well-structured portfolio using Markdown. I now understan
 
 ## Mock Interview Video
 
-[Watch my mock interview here](https://github.com/TheAthiest0001/CVportforlio/blob/main/0331%20(1).mp4))
+[Watch my mock interview here](https://drive.google.com/file/d/18JWC7I7yrKILu_nE52dIxr2EyQEo58iB/view?usp=sharing)
 
-## Reflection on Mock Interview (STAR Method)
+## Reflection on Mock Interview
 
 **Situation:**
 As part of the work readiness training, I had to complete and record a mock interview.
@@ -95,10 +95,9 @@ I prepared by reviewing common interview questions and practicing my answers. Du
 The experience helped me understand how interviews work and highlighted areas I need to improve, such as confidence and structuring my answers better.
 
 ## GitHub Pages Portfolio Link
+https://theathiest0001.github.io/CVportforlio/
 
-PASTE-YOUR-GITHUB-PAGES-LINK-HERE
-
-## Reflection on GitHub Pages (STAR Method)
+## Reflection on GitHub Pages 
 
 **Situation:**
 I needed to publish my digital portfolio online using GitHub Pages.
