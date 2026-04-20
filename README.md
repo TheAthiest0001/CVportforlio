@@ -1,4 +1,4 @@
-# Digital Portfolio
+# Portfolio
 
 ## GitHub Profile  
 [My GitHub Profile](https://github.com/TheAthiest0001)
