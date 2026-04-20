@@ -58,14 +58,12 @@ Although I have limited formal work experience, I developed important skills suc
 - Driver’s License: Code 8  
 
 
-
 ### References  
 
 Simakele Nocuze – 068 020 3872  
 
 
-
-## Reflection on Coding in Markdown (STAR Method)
+## Reflection on Coding in Markdown 
 
 **Situation:**  
 Create a digital portfolio using Markdown on GitHub as part of this assessment.  
@@ -77,7 +75,7 @@ Learn how to structure my portfolio and present my CV in a clear and professiona
 I researched Markdown and practiced using headings and text
 
 **Result:**  
-Created a structured and readable portfolio and gained a better understanding of Markdown language.  
+Created a structured portfolio and gained a better understanding of Markdown language.  
 
 ---
 
@@ -90,7 +88,7 @@ width="600" height="400" allow="autoplay"></iframe>
 
 ---
 
-## Reflection on Mock Interview (STAR Method)
+## Reflection on Mock Interview 
 
 **Situation:**  
 Complete and record a mock interview as part of the work readiness training.  
