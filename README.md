@@ -89,7 +89,10 @@ I was able to create a structured and readable portfolio and gained a better und
 
 ## Evidence: Mock Interview Video  
 
-[Watch my mock interview here](https://drive.google.com/file/d/18JWC7I7yrKILu_nE52dIxr2EyQEo58iB/view?usp=sharing)  
+o  
+
+<iframe src="https://drive.google.com/file/d/18JWC7I7yrKILu_nE52dIxr2EyQEo58iB/preview" 
+width="600" height="400" allow="autoplay"></iframe>
 
 ---
 
