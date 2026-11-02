@@ -4,7 +4,7 @@
 [My GitHub Profile](https://github.com/TheAthiest0001)
 
 
-## Evidence: CV (Coded in Markdown)
+## Evidence: CV 
 
 ### Libolwetu Nokenke  
 
@@ -148,7 +148,7 @@ Link to pdf agile team charter-  Agile Team Charter
 * Ask for help when we are stuck.
 * Make sure everyone understands their responsibilities.
 
-**Roles (at the business idea stage)**
+**Roles**
 
 | Role | Team member |
 |---|---|
