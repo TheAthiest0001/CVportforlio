@@ -132,7 +132,7 @@ Our team worked on a business idea called the Khayelitsha Sewage Repair Service.
 
 
 ## Evidence: Agile Team Charter
-Link to pdf agile team charter- ### Agile Team Charter
+Link to pdf agile team charter-  Agile Team Charter
 
 [📄 View Agile Team Charter (PDF)](./Agile%20Team%20Charter.pdf)
 **Purpose:** To develop a digital service idea that helps residents of Khayelitsha report sewage problems and follow up on them.
@@ -272,8 +272,7 @@ Link to pdf agile team charter- ### Agile Team Charter
 
 * **Website:** Khayelitsha Sewage Repair Service
 * **My part:** I worked on the frontend pages.
-* **Link to website** 
-(https://sewage-repair-services.vercel.app/)
+* **Link to website:** [Sewage Repair Services](https://sewage-repair-services.vercel.app/)
 
 
 ### Reflection on the Website
